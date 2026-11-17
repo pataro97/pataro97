@@ -9,4 +9,4 @@ Backend PHP developer from Jerez de la Frontera (Spain) with 5+ years of experie
 
 **Stack:** PHP 8 · Laravel · Symfony · WordPress · Vue.js · MySQL · Docker · Composer · PHPUnit · Pest · CI/CD
 
-📫 [LinkedIn](https://www.linkedin.com/in/pablo-tamayo-634aa61bb)
+📫 [LinkedIn](https://www.linkedin.com/in/pablotamayo-php)
