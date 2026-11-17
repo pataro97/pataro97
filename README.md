@@ -1,7 +1,12 @@
-## Hi there 👋
-### Zzzzzzzz....
-<img width="50px" src="https://github.githubassets.com/images/mona-whisper.gif"/>
+# Hi, I'm Pablo 👋
 
-[![pataro97 github stats](https://github-readme-stats.vercel.app/api?username=pataro97&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/pataro97)
+Backend PHP developer from Jerez de la Frontera (Spain) with 5+ years of experience building and maintaining web applications with **Laravel**, **Symfony** and **WordPress**.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pataro97&hide=html)](https://github.com/pataro97)
+- 🔧 Upgrading production Laravel applications through major versions (8 → 13)
+- 📦 Maintaining forks of unmaintained Laravel packages to keep them compatible with Laravel 13: [entrust](https://github.com/pataro97/entrust), [madzipper](https://github.com/pataro97/madzipper), [sweet-alert](https://github.com/pataro97/sweet-alert)
+- ✅ Automated testing with PHPUnit and Pest in CI pipelines
+- 🤖 AI-assisted, spec-driven development with Claude, Cursor and OpenSpec
+
+**Stack:** PHP 8 · Laravel · Symfony · WordPress · Vue.js · MySQL · Docker · Composer · PHPUnit · Pest · CI/CD
+
+📫 [LinkedIn](https://www.linkedin.com/in/pablo-tamayo-634aa61bb)
